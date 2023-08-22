@@ -1,0 +1,28 @@
+{
+  "name": "ramdom-str-msg-dayanic",
+  "version": "1.0.0",
+  "description": "Ramdom String Messages Dayanic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dayanic/ramdom-str-msg-dayanic.git"
+  },
+  "keywords": [],
+  "author": "Dayane Coronado Guzmán <dayanne.cguzman@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Dayanic/ramdom-str-msg-dayanic/issues"
+  },
+  "homepage": "https://github.com/Dayanic/ramdom-str-msg-dayanic#readme",
+  "bin": {
+    "random-str-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  },
+  "devDependencies": {}
+}
