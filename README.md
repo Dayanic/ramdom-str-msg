@@ -1,2 +1,2 @@
 # ramdom-str-msg
-Ramdom String Messages 
+Ramdom String Messages Dayanic
